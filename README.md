@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eae Pessoal, Me chamo Renan Kelm e sou estudante de programação
 ![snake gif](https://github.com/renankelm10/renankelm10/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **renankelm10/renankelm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
