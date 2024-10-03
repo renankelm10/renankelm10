@@ -1,4 +1,4 @@
-# Eae Pessoal, Me chamo Renan Kelm e sou estudante de programação
+# Me chamo Renan Kelm e sou estudante de programação
 >| HTML | CSS | JAVASCRIPT | PHP | C# |
 ![snake gif](https://github.com/renankelm10/renankelm10/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
