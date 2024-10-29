@@ -1,17 +1,20 @@
-# Me chamo Renan Kelm e sou estudante da area de programação
->| HTML | CSS | JAVASCRIPT | PHP | C# |
+
+
 ![snake gif](https://github.com/renankelm10/renankelm10/blob/output/github-contribution-grid-snake-dark.svg)
-<!--
-**renankelm10/renankelm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+'Hello, world! 👋  
+I am a young technology enthusiast, passionate about web development and currently focused on learning PHP. 🚀
 
-Here are some ideas to get you started:
+My main areas of interest include:
 
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+- Backend with PHP 🐘  
+- MySQL database 💾  
+- MVC architecture 🎯  
+
+I have worked, know or use
+
+>| HTML | CSS | JAVASCRIPT | PHP | C# |
+
+Contribuitions
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renankelm10&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renankelm10&show_icons=true&theme=onedark)
