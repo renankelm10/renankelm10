@@ -13,10 +13,5 @@ Prazer, meu nome é Renan, desenvolvedor backend júnior apaixonado por tecnolog
 
 ## 🔧 Tecnologias que uso/estudo  
 > HTML | CSS | JavaScript | PHP | Node.js | React | MySQL | n8n | C#
-
-## 📊 Minhas estatísticas  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renankelm10&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renankelm10&show_icons=true&theme=onedark)  
-
 ---
 ✨ Sempre aberto a aprender, colaborar e transformar ideias em soluções reais.
