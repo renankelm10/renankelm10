@@ -1,17 +1,27 @@
-![snake gif](https://github.com/renankelm10/renankelm10/blob/output/github-contribution-grid-snake-dark.svg)
+<h1 align="center"></h1> <p align="center"> <b>Desenvolvedor Backend</b> — Node.js/TypeScript · PHP · APIs, Pagamentos & Integrações </p> <p align="center"> <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://komarev.com/ghpvc/?username=renankelm10&style=for-the-badge&color=2ea44f" alt="Profile views"> </p>
+🚀 Sobre mim
+Desenvolvedor backend focado em APIs, fluxos de pagamento e integrações entre sistemas. Gosto de entender o negócio antes de escrever código e de levar tudo até produção — do schema do banco ao deploy no VPS e à publicação nas lojas.
 
-# Hello, world! 👋  
-Prazer, meu nome é Renan, desenvolvedor backend júnior apaixonado por tecnologia e sempre em busca de aprender algo novo. 🚀  
+🔭 Construindo backend em NestJS + TypeScript e serviços em PHP
+💳 Integrações de pagamento (PIX e cartão), escrow e livro-razão de repasses
+🔌 APIs REST, contratos tipados com Zod e integração com ERPs de varejo
+🗄️ PostgreSQL / Prisma (Supabase) e MySQL
+📱 Apps React Native + Expo e painéis internos em Next.js
+⚙️ Automação de processos com n8n
+🐳 Docker, VPS (EasyPanel, Cloudflare Tunnel), deploy por push
+🏗️ No que estou trabalhando hoje
+Plataforma de inteligência de ofertas para compras de supermercado — o usuário busca um produto e um Offer Engine ranqueia as ofertas por preço + frete + distância + ETA. Não é delivery: é uma camada de inteligência sobre a compra.
 
-## Sobre mim  
-- Foco em *desenvolvimento backend* com *PHP* e *JavaScript/Node.js* 
-- Experiência com *bancos de dados relacionais (MySQL)*  
-- Prática em *APIs e integrações entre sistemas*  
-- Automação de processos com *n8n*   
-- Noções de *infraestrutura VPS* para deploys simples
-- Experiência com interfaces web utilizando *React*  
+Monorepo Turborepo + pnpm: 1 API NestJS · 3 apps mobile (usuário, entregador, lojista) · 2 painéis Next.js · pacotes compartilhados (db, contracts, ui)
+API modular: auth (JWT + TOTP), catálogo, busca, carrinho multi-loja, checkout, pagamento, logística e separação
+Pagamentos ponta a ponta: PIX e cartão (Pagar.me / Asaas), tokenização, escrow com liberação por loja, comissão e repasse de frete via livro-razão
+Logística: matching de entregadores em ondas, cálculo de frete por rota real, prazo em faixa
+Integração com ERPs de mercado via adapters por fornecedor — onboarding de nova loja é uma linha na tabela
+Infra: Supabase (Postgres, sa-east-1), Docker no VPS, deploy = push no main, builds nativos Android/iOS e publicação nas lojas
+🛠️ Tecnologias & Ferramentas
+<p> <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,php,postgres,mysql,prisma,docker,linux,git&perline=6" alt="skills"> </p>
+TypeScript · Node.js · NestJS · PHP · React · React Native · Next.js · PostgreSQL · MySQL · Prisma · n8n · Docker · C#
 
-## 🔧 Tecnologias que uso/estudo  
-> HTML | CSS | JavaScript | PHP | Node.js | React | MySQL | n8n | C#
----
-✨ Sempre aberto a aprender, colaborar e transformar ideias em soluções reais.
+📊 GitHub
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=renankelm10&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renankelm10&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="top langs"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=renankelm10&theme=github-dark-blue&hide_border=true" alt="streak"> </p>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/renankelm10/renankelm10/blob/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/renankelm10/renankelm10/blob/output/github-contribution-grid-snake.svg"> <img alt="snake animation" src="https://github.com/renankelm10/renankelm10/blob/output/github-contribution-grid-snake.svg"> </picture> <p align="center"><i>✨ Aberto a aprender, colaborar e transformar ideias em soluções reais.</i></p>
