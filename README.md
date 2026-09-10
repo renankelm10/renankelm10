@@ -12,12 +12,7 @@ Desenvolvedor backend focado em APIs, fluxos de pagamento e integrações entre 
 🏗️ No que estou trabalhando hoje
 Plataforma de inteligência de ofertas para compras de supermercado — o usuário busca um produto e um Offer Engine ranqueia as ofertas por preço + frete + distância + ETA. Não é delivery: é uma camada de inteligência sobre a compra.
 
-Monorepo Turborepo + pnpm: 1 API NestJS · 3 apps mobile (usuário, entregador, lojista) · 2 painéis Next.js · pacotes compartilhados (db, contracts, ui)
-API modular: auth (JWT + TOTP), catálogo, busca, carrinho multi-loja, checkout, pagamento, logística e separação
-Pagamentos ponta a ponta: PIX e cartão (Pagar.me / Asaas), tokenização, escrow com liberação por loja, comissão e repasse de frete via livro-razão
-Logística: matching de entregadores em ondas, cálculo de frete por rota real, prazo em faixa
-Integração com ERPs de mercado via adapters por fornecedor — onboarding de nova loja é uma linha na tabela
-Infra: Supabase (Postgres, sa-east-1), Docker no VPS, deploy = push no main, builds nativos Android/iOS e publicação nas lojas
+
 🛠️ Tecnologias & Ferramentas
 <p> <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,php,postgres,mysql,prisma,docker,linux,git&perline=6" alt="skills"> </p>
 TypeScript · Node.js · NestJS · PHP · React · React Native · Next.js · PostgreSQL · MySQL · Prisma · n8n · Docker · C#
