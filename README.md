@@ -1,4 +1,4 @@
-<h1 align="center"></h1> <p align="center"> <b>Desenvolvedor Backend</b> — Node.js/TypeScript · PHP · APIs, Pagamentos & Integrações </p> <p align="center"> <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://komarev.com/ghpvc/?username=renankelm10&style=for-the-badge&color=2ea44f" alt="Profile views"> </p>
+<h1 align="center"></h1> <p align="center"> <b>Desenvolvedor Backend</b> — Node.js/TypeScript · PHP · APIs, Pagamentos & Integrações </p> <p align="center"> <a href="https://www.linkedin.com/in/renan_kelm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:renankelm.contact@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://komarev.com/ghpvc/?username=renankelm10&style=for-the-badge&color=2ea44f" alt="Profile views"> </p>
 🚀 Sobre mim
 Desenvolvedor backend focado em APIs, fluxos de pagamento e integrações entre sistemas. Gosto de entender o negócio antes de escrever código e de levar tudo até produção — do schema do banco ao deploy no VPS e à publicação nas lojas.
 
@@ -8,9 +8,7 @@ Desenvolvedor backend focado em APIs, fluxos de pagamento e integrações entre 
 🗄️ PostgreSQL / Prisma (Supabase) e MySQL
 📱 Apps React Native + Expo e painéis internos em Next.js
 ⚙️ Automação de processos com n8n
-🐳 Docker, VPS (EasyPanel, Cloudflare Tunnel), deploy por push
-🏗️ No que estou trabalhando hoje
-Plataforma de inteligência de ofertas para compras de supermercado — o usuário busca um produto e um Offer Engine ranqueia as ofertas por preço + frete + distância + ETA. Não é delivery: é uma camada de inteligência sobre a compra.
+🐳 Docker, VPS (EasyPanel, Cloudflare Tunnel)
 
 
 🛠️ Tecnologias & Ferramentas
